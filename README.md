@@ -6,5 +6,5 @@ Losses
 ![image](https://user-images.githubusercontent.com/37044387/72672676-78f51d80-3a3c-11ea-9fc4-b088ef0a683c.png)
 
 #
-Result final
+Final result
 ![image](https://user-images.githubusercontent.com/37044387/72672666-4a774280-3a3c-11ea-8815-c82eb252ab2c.png)
